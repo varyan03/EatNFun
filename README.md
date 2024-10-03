@@ -36,30 +36,30 @@ EatNFun is a website designed for a board game shop. It serves boba tea and smal
 
 ## ✅ Features Implemented
 
-Navigation Bar:
+- Navigation Bar:
 Designed a responsive navigation bar with dropdown menus using CSS and GSAP for animation.
 
-Home Page:
+- Home Page:
 Implemented a dynamic landing page showcasing various offerings and highlights of SIPnPlay.
 
-Events Calendar:
+- Events Calendar:
 Integrated an events calendar using JavaScript to display upcoming events, enhancing user engagement.
 
-Cafeteria Menu:
+- Cafeteria Menu:
 Created a visually appealing menu section using CSS grid and animation effects.
 
-Interactive 3D Menu:
+- Interactive 3D Menu:
 Developed an interactive 3D menu using Three.js, allowing users to explore different menu items in a virtual environment.
 
-Contact Page:
+- Contact Page:
 Designed a contact page with information about key personnel and contact options for inquiries.
 
-Challenges Faced:
+- Challenges Faced:
 Integrating complex animations and ensuring smooth transitions across different sections.
 Optimizing Three.js for performance while maintaining visual fidelity on various devices.
 Ensuring compatibility with different browsers and devices for a seamless user experience.
 
-Future Enhancements:
+- Future Enhancements:
 Implement real-time updates for the events calendar.
 Enhance accessibility features and optimize SEO further.
 Expand the 3D menu to include more interactive elements and product details.
