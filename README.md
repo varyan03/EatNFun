@@ -8,14 +8,14 @@ EatNFun wants a dream website for their cafe. Although, the owner had some reque
 ## Table of Contents
 
  
-  - [Project Overview](#🗂️-project-overview)
-  - [Project-Goals:](#🎯-project-goals)
-  - [Technologies Used:](#💻-technologies-used)
-  - [Features Implemented](#✅-features-implemented)
-  - [Contributing](#🤝-contributing)
+  - [Project Overview](#project-overview)
+  - [Project-Goals:](#project-goals)
+  - [Technologies Used:](#technologies-used)
+  - [Features Implemented](#features-implemented)
+  - [Contributing](#contributing)
   - [Conclusion:](#conclusion)
 
-## 🗂️ Project Overview
+## Project Overview
 
 EatNFun is a website designed for a board game shop. It serves boba tea and small bites while providing a space for gamers to enjoy various board games and events.
 
